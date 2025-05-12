@@ -19,8 +19,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token and staff group
-TOKEN: Final = "7692272382:AAEePO8DMJCoDC4RTyFq5DqKAQAKL97uwKU"
-STAFF_GROUP_CHAT_ID = "-4779662690"
+TOKEN: Final = os.getenv("BOT_TOKEN")
+STAFF_GROUP_CHAT_ID = int(os.getenv("GROUP_CHAT_ID", "0"))
 
 # Menu data with descriptions and images
 MENU = {
