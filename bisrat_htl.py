@@ -29,7 +29,7 @@ STAFF_GROUP_CHAT_ID = int(os.getenv("GROUP_CHAT_ID", "0"))
 MENU = {
     "Soups": {
         "description": "Warm and comforting soups made with fresh ingredients.",
-        "image_ids": ["AgACAgQAAxkBAAPNaBy7WmNb6gkEMAdB--jfTE__grYAArPMMRtOwOlQnXdqGpaz0HYBAAMCAAN5AAM2BA"]
+        "image_ids": ["AgACAgQAAxkBAAIDHWgm5uh6vUnYQIT6GIClTw1KEixtAAJ1zzEbyiE4UUCYqJZT3-uXAQADAgADeQADNgQ"]
     },
     "Salads": {
         "description": "Fresh and vibrant salads to complement your meal.",
@@ -53,7 +53,7 @@ MENU = {
     },
     "Beverages": {
         "description": "A wide selection of refreshing drinks and fine wines.",
-        "image_ids": ["AgACAgQAAxkBAAIBI2gdsr6hCkd7AkJS4_VobBeCBTXTAAK5xzEbTsDxUI1IArzN1IGcAQADAgADeQADNgQ"]
+        "image_ids": ["AgACAgQAAxkBAAIDEGgm3NWsep92yeW8uUMz9nb4g7hMAAJqzzEbyiE4UYdEUwcGfohFAQADAgADeQADNgQ"]
     },
     "Hot Drinks": {
         "description": "Warm and aromatic coffee, tea, and specialty drinks.",
