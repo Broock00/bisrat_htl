@@ -68,13 +68,13 @@ MENU = {
 BANK_ACCOUNTS = [
     {
         "bank_name": "Commercial Bank of Ethiopia (CBE)",
-        "account_holder": "Bisrat Hotel",
-        "account_number": "1000014828657"
+        "account_holder": "Bisrat Yirdaw & Eyerusalem Awoke",
+        "account_number": "1000658083830"
     },
     {
-        "bank_name": "Sinqe Bank",
-        "account_holder": "Bisrat Hotel",
-        "account_number": "1048094320118"
+        "bank_name": "Awash Bank",
+        "account_holder": "Bisrat Yirdaw & Eyerusalem Awoke",
+        "account_number": "013201168031000"
     }
 ]
 
